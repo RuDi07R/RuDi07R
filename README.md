@@ -1,6 +1,6 @@
-<!-- Banner -->
+<!-- Banner/Header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Hey,%20I'm%20Rudraksh%20Bhardwaj%20✨-7FDBFF?style=for-the-badge&logo=none&logoColor=white&colorA=8e2de2&colorB=4a00e0" height="60"/>
+  <img src="https://img.shields.io/badge/✨%20Hey,%20I'm%20Rudraksh%20Bhardwaj%20✨-8e2de2?style=for-the-badge&logo=none&logoColor=white&colorA=8e2de2&colorB=4a00e0" height="60"/>
 </p>
 <p align="center">
   <b>🤖 AI/ML + Backend Developer &nbsp; | &nbsp; Cloud & Data Enthusiast</b>
@@ -22,8 +22,9 @@
 <p>
   <a href="https://www.linkedin.com/in/rudraksh-bhardwaj" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="mailto:rudrakshbhardwaj888@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <!-- Add your real social links here -->
+  <a href="https://leetcode.com/u/RUDI_07/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/>
+  </a>
 </p>
 
 ---
