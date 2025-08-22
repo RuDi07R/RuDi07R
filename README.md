@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/✨%20Hey,%20I'm%20Rudraksh%20Bhardwaj%20✨-8e2de2?style=for-the-badge&logo=none&logoColor=white&colorA=8e2de2&colorB=4a00e0" height="60"/>
 </p>
 <p align="center">
-  <b>🤖 AI/ML + Backend Developer &nbsp; | &nbsp; Cloud & Data Enthusiast</b>
+  <b>🤖 AI/ML + Backend Developer &nbsp; | &nbsp;Data Enthusiast</b>
 </p>
 
 ---
