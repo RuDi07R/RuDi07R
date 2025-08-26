@@ -71,7 +71,7 @@
 ## 🔥 GitHub Stats
 
 <p align="left">
-  [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuDi07R&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/RuDi07R)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RuDi07R&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/RuDi07R)
   <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuDi07R&layout=compact&langs_count=8&theme=radical"/>
 </p>
 
